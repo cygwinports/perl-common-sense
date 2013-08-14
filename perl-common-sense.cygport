@@ -1,0 +1,14 @@
+CPAN_AUTHOR=mlehmann
+inherit perl
+
+NAME="perl-common-sense"
+VERSION=3.72
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Provides sane defaults for Perl programs"
+DESCRIPTION="This module implements some sane defaults for Perl programs, as
+defined by two typical specimens of Perl coders. In fact, after working out
+details on which warnings and strict modes to enable and make fatal, we found
+that many developers fully agree on every option, even though we never used
+warnings before, so it seems this module indeed reflects a 'common' sense
+among some long-time Perl coders."
